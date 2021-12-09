@@ -1,0 +1,39 @@
+*{
+   font-family: 'Outfit', sans-serif;
+}body {
+    font-size: 15pt;
+}.calcy{
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+   width: 250px;
+   margin-top: 20%;
+   padding: 13px;
+   border-radius: 20px;
+   color: #9000FF;
+   border: 2px solid
+}button{
+   width: 100px;
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+   background:  #9000FF;
+   border: none;
+   font-weight: 700;
+   border-radius: 10px;
+   font-size: 15px;
+   padding:7px;
+   cursor: pointer;
+   margin-top: 3px;
+   color: white;
+}input{
+   width: 195px;box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+   color: #9000FF;
+   padding: 5px;
+   margin: 3px;
+   border-radius: 10px;
+   border: 2px solid;
+   height: 25px;
+}.head{
+   margin-bottom: 10px;
+   font-weight: 800;
+}.result{
+   margin-top: 4px;
+   font-weight: 800;
+}
